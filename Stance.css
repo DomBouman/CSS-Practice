@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+}
+ul{
+  color: red
+}
+li{
+  color: Green
+}
+li a:hover {
+    background-color: cyan;
+  }
+p{
+  color: red;
+  font-style: oblique, italic;
+
+  margin: 20px;
+  padding: 25px;
+}
+
+.cool-border {
+  border: ridge;
+  border-width: 50px;
+  border-color: cyan;
+  border-radius: 15%;
+}
+.backgroundcolor{
+  background-color: blue;
+}
